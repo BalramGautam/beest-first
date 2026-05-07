@@ -40,6 +40,9 @@ The objective of this game is to arrange the falling blocks such that they form 
 3. Enjoy playing!
 
 ##Game Screenshot
+<img width="1366" height="768" alt="tetris" src="https://github.com/user-attachments/assets/ed763234-6311-4d63-a226-d6021217a4ee" />
+<img width="1366" height="768" alt="tetris2" src="https://github.com/user-attachments/assets/ee072133-cf55-4ac9-ac87-831d1958ebd5" />
+
 
 
 
